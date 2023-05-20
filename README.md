@@ -40,6 +40,8 @@ Refer to [this](https://www.makeuseof.com/react-app-firebase-connect/) link for 
 
 After initialization, add the elements to obtain the following structure for the proper functioning.
 
+![Alt Firebase Realtime Database](https://github.com/MIT-Mentors/autonomous-delivery-robot-application/blob/main/src/Photos/Readme-firebase.png)
+
 
 
    
