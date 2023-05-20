@@ -27,7 +27,7 @@ The purpose of this application is to enable the users to access the robot and p
 5. After fixing the issues and connecting the application to the database, start the development server:
     #### npm start
     
-    (Refer [this](https://github.com/MIT-Mentors/autonomous-delivery-robot-application/edit/main/README.md#connecting-application-with-database) to connect the application to the database)
+    (Refer [this](https://github.com/MIT-Mentors/autonomous-delivery-robot-application#2-connecting-application-with-database) to connect the application to the database)
     
 This will start a local development server and the application will be run in the web browser. The application can be accessed at ***http://localhost:3000***.
 
