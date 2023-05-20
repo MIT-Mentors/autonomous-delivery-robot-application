@@ -1,3 +1,24 @@
+# Autonomous Delivery Robot Application
+
+This application is a part of the project - **Solar-based Autonomous Delivery Robot** and is built using React JS, a Javascript library used for building dynamic user interfaces. The application is hosted on GitHub pages - [Autonomous-Delivery-Robot-Application](https://mit-mentors.github.io/autonomous-delivery-robot-application/).
+
+The purpose of this application is to enable the users to access the robot and place orders for delivery according he it's availability. It is a simple, user-friendly application where the users register themselves and can access the status of the bot's availability, place orders, and check the status of the order. The application is connected to the Firebase Realtime Database through which the bot can be accessed through an application.
+
+## Setting up the React application in the local machine
+
+### Check for the prerequisites and install them if required.
+1. Node JS - download the latest version from the official [website](https://nodejs.org/en).
+2. npm package manager - to install all the dependencies.
+3. Git - version control system
+
+### Download the React application
+1. Clone the (repository)[
+    
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
