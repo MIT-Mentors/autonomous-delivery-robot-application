@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/autonomous-delivery-robot-application/static/css/main.b7fbcd7f.css",
+    "main.js": "/autonomous-delivery-robot-application/static/js/main.2bec3ba7.js",
+    "static/media/Robot_2.png": "/autonomous-delivery-robot-application/static/media/Robot_2.ba6e425ba75b1097c570.png",
+    "static/media/Robot.png": "/autonomous-delivery-robot-application/static/media/Robot.2902c0a1cfc4b8c7aa97.png",
+    "static/media/Robot_1.png": "/autonomous-delivery-robot-application/static/media/Robot_1.c66ffef601a48d9b688f.png",
+    "index.html": "/autonomous-delivery-robot-application/index.html",
+    "main.b7fbcd7f.css.map": "/autonomous-delivery-robot-application/static/css/main.b7fbcd7f.css.map",
+    "main.2bec3ba7.js.map": "/autonomous-delivery-robot-application/static/js/main.2bec3ba7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7fbcd7f.css",
+    "static/js/main.2bec3ba7.js"
+  ]
+}
